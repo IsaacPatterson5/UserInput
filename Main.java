@@ -3,6 +3,7 @@ import java.util.Scanner;    // Needed for Scanner class
 /**
  *  This program demonstrates keyboard input.
  */
+ 
 public class Main
 {
    public static void main(String[] args)
